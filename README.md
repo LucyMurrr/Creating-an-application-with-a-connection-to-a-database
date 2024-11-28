@@ -10,7 +10,7 @@
 
 **\q**
 
-**psql -U <superuser> -d task_management -W -f /mnt/d/python/Task/src/setup.sql**
+**psql -U <superuser> -d task_management -W -f <path>/Creating-an-application-with-a-connection-to-a-databasen/Task/src/setup.sql**
 
 **cd Task/src**
 
